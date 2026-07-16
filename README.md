@@ -1,0 +1,166 @@
+# HR Analytics Dashboard using Power BI
+
+## 📌 Project Overview
+
+This project analyzes HR employee data using **Power BI** to identify workforce trends, employee attrition, salary distribution, job satisfaction, and employee demographics. The dashboard helps HR teams understand why employees leave the organization and supports data-driven workforce decisions.
+
+---
+
+## 🎯 Objectives
+
+- Analyze employee attrition
+- Compare department-wise employee performance
+- Study salary distribution
+- Analyze employee satisfaction
+- Identify factors affecting attrition
+- Support HR decision making
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+
+---
+
+## 🧹 Data Preparation
+
+- Removed duplicate rows
+- Removed unnecessary columns
+- Cleaned and transformed the dataset using Power Query
+- Prepared the final dataset for Power BI analysis
+
+---
+
+## 📊 Dashboard Pages
+
+### 1️⃣ Executive Overview
+
+- Total Employees
+- Attrition Rate
+- Department-wise Attrition
+- Job Role Attrition
+- Gender Analysis
+- Overtime Impact
+- Business Travel Analysis
+
+---
+
+### 2️⃣ Employee Insights
+
+- Average Salary by Department
+- Monthly Income by Job Role
+- Education Distribution
+- Years at Company
+- Distance from Home
+
+---
+
+### 3️⃣ Satisfaction Dashboard
+
+- Job Satisfaction
+- Environment Satisfaction
+- Work-Life Balance
+- Performance Rating
+- Job Involvement
+
+---
+
+### 4️⃣ Employee Directory
+
+- Employee Details
+- Interactive Filters
+
+---
+
+## 💡 Key Insights
+
+- Employee Attrition Rate: **16.12%**
+- The **Research & Development (R&D)** department has the highest attrition.
+- **Laboratory Technicians** experience the highest attrition.
+- Employees working **overtime** have a significantly higher attrition rate.
+- Employees living farther from the workplace are more likely to leave.
+- **Managers** receive the highest average salary.
+- The average employee experience is **7 years**.
+- Overall employee satisfaction is **moderate**.
+
+---
+
+## 📈 Business Impact
+
+This dashboard helps HR managers to:
+
+- Monitor employee turnover
+- Identify high-risk departments
+- Improve employee retention
+- Reduce overtime-related attrition
+- Support workforce planning
+- Make data-driven HR decisions
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Overview
+
+<img width="2210" height="1278" alt="executive_overview" src="https://github.com/user-attachments/assets/a2b211c1-5768-445b-be4c-f08234f330be" />
+
+---
+
+### Employee Insights
+
+<img width="2200" height="1270" alt="employee_insights" src="https://github.com/user-attachments/assets/0e995dec-df54-4c83-a5c8-f520bc007904" />
+
+---
+
+### Satisfaction Dashboard
+
+<img width="2202" height="1272" alt="satisfaction_dashboard" src="https://github.com/user-attachments/assets/08faad0f-63c2-4b1a-b49f-5afdfd11623a" />
+
+---
+
+### Employee Directory
+
+<img width="2206" height="1272" alt="employee_directory" src="https://github.com/user-attachments/assets/511aa561-5e5f-4067-bd83-fe0b2fb0fc1a" />
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Data Transformation
+- Power Query
+- DAX Measures
+- KPI Design
+- HR Analytics
+- Interactive Dashboard Design
+- Data Visualization
+- Business Intelligence (BI)
+
+---
+
+## 📁 Repository Structure
+
+```
+HR-Analytics-Dashboard/
+│
+├── README.md
+├── Dashboard/
+│   └── HR_Analytics_Dashboard.pbix
+├── Dataset/
+│   ├── HR_Employee_Data_Unclean.xlsx
+│   └── HR_Employee_Data_Clean.xlsx
+└── Images/
+    ├── dashboard_overview.png
+    ├── employee_insights.png
+    ├── satisfaction_dashboard.png
+    └── employee_directory.png
+```
+
+---
+
+## ⭐ If you found this project useful, consider giving it a Star!
