@@ -37,7 +37,7 @@ This project analyzes HR employee data using **Power BI** to identify workforce 
 
 ## 📊 Dashboard Pages
 
-### 1️⃣ Executive Overview
+### 1️⃣ Attrition Overview
 
 - Total Employees
 - Attrition Rate
@@ -104,21 +104,22 @@ This dashboard helps HR managers to:
 
 ## 📷 Dashboard Preview
 
-### Executive Overview
+### Attrition Overview
 
-<img width="2210" height="1278" alt="executive_overview" src="https://github.com/user-attachments/assets/a2b211c1-5768-445b-be4c-f08234f330be" />
+<img width="2578" height="1492" alt="attrition_overview" src="https://github.com/user-attachments/assets/a64526c7-a770-4c31-9952-de79ea6fa098" />
 
 ---
 
 ### Employee Insights
 
-<img width="2200" height="1270" alt="employee_insights" src="https://github.com/user-attachments/assets/0e995dec-df54-4c83-a5c8-f520bc007904" />
+<img width="2466" height="1424" alt="employee_insights" src="https://github.com/user-attachments/assets/1972de0d-f44b-401f-9301-8ca1554b14c7" />
 
 ---
 
 ### Satisfaction Dashboard
 
-<img width="2202" height="1272" alt="satisfaction_dashboard" src="https://github.com/user-attachments/assets/08faad0f-63c2-4b1a-b49f-5afdfd11623a" />
+
+<img width="2466" height="1426" alt="satisfaction_dashboard" src="https://github.com/user-attachments/assets/64eec015-a720-4399-a78b-8342ac832968" />
 
 ---
 
@@ -155,7 +156,7 @@ HR-Analytics-Dashboard/
 │   ├── HR_Employee_Data_Unclean.xlsx
 │   └── HR_Employee_Data_Clean.xlsx
 └── Images/
-    ├── dashboard_overview.png
+    ├── attrition_overview.png
     ├── employee_insights.png
     ├── satisfaction_dashboard.png
     └── employee_directory.png
